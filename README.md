@@ -10,8 +10,10 @@ Bundled using Webpack 5
 
 ## Download the project
 
+To clone the project, run the following command on your terminal
+
 ```bash
-npx degit <https://github.com/Kyriakos-Bekas/react-typescript-project-starter> my-app
+npx degit https://github.com/Kyriakos-Bekas/react-typescript-project-starter my-app
 ```
 
 ## Install dependencies
